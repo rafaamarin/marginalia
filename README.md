@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b675e2c-fc95-4542-ad6b-3f8592d4b8b3" /># Marginalia 📚
+# Marginalia 📚
 
 A minimalist CLI ebook reader for Linux.
 
